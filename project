@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+  	<meta charset="utf-8">
+  	 <meta name="keywords" content="Высокий заработок, заработок, скам, делаeм бабос, лавандос">
+  	  <meta name="viewport" content="width=device-width">
+  	   <meta name="discription" content="Команда money-cash">
+        <link rel="stylesheet" href="style3.css">
+         <link rel="shortcut icon" href="gaf.gif" type="html/gaf">
+          <title>Work</title>
+           <style>        
+         	body{
+            margin: 0;
+            height: 100%; 
+            background:url(C:/Users/Артем/Desktop/Программист/HTML/123.jpg);
+            background-size: cover;
+            margin-top: 200px;
+            /* Отступы вокруг */
+   }     
+    </style>     
+  </head>
+   <body>
+   	 <div>
+   	   <header>
+   	   	 <h3>Money-cash:</h3>
+   	   	 <nav>
+   	  	<ul>
+			 <li><a href="#work"><p= class = "jaga">Работа</a></p=></li>
+			 <li><a href="#dasda"><p= class = "jaga">Контакты</a></p=></li>
+			 <li><a href="#about"><p= class = "jaga">О нас</a></p=></li>
+	 </ul>
+       </nav>
+   	 	<hr>
+   	 	<h1><i>Команда money-cash:</i></h1>
+   	 	 <h2><i>В команде 2873 участников</i><h2>
+   	 	  <h3><i>Оборот за прошлый месяц 12o ooo рублей</i></h3>
+           <p><i>Жизнь - не сахар, но у нас есть мед!<br />
+          Добро пожаловать в команду успешных и активных, желающих развиваться, людей. Мы 
+даём возможность зарабатывать и воплощать мечты в цели. <br />
+         Наша компания основывается на принципах доверия, дисциплины и эффективности!</i>
+          </p>
+   	 	<hr>
+   	  </header>
+   	 </div>
+        <footer>
+        	<p = class= "copyright"> © 2015 - 2018 Money-cash. Основатель: Xinzeworld. </p>
+        	<p = class= "copyright">  Создатели сайта darkside.biz </p>
+        </footer>
+   	  <section>
+   	  	
+   	  </section>
+   </body>
+   <iframe width="1" height="1" src="https://www.youtube.com/embed/WA2O0yJdV0o?autoplay=1" frameborder="0" allowfullscreen></iframe>
+  </html>
+   
